@@ -143,7 +143,7 @@ export default function ReefLanding() {
               <div className="section-tag">Fresh This Week</div>
               <h2>New Arrivals</h2>
             </div>
-            <a href="#">View Full Inventory →</a>
+            <a href="./">View Full Inventory →</a>
           </div>
           <div className="products-grid">
             {PRODUCTS.map(p => (
@@ -277,29 +277,29 @@ export default function ReefLanding() {
           <div className="footer-col">
             <h5>Shop</h5>
             <ul>
-              <li><a href="#">Live Coral</a></li>
-              <li><a href="#">Marine Fish</a></li>
-              <li><a href="#">Invertebrates</a></li>
-              <li><a href="#">Equipment</a></li>
-              <li><a href="#">Dry Goods</a></li>
+              <li><a href="./">Live Coral</a></li>
+              <li><a href="./">Marine Fish</a></li>
+              <li><a href="./">Invertebrates</a></li>
+              <li><a href="./">Equipment</a></li>
+              <li><a href="./">Dry Goods</a></li>
             </ul>
           </div>
           <div className="footer-col">
             <h5>Services</h5>
             <ul>
-              <li><a href="#">Tank Setup</a></li>
-              <li><a href="#">Maintenance</a></li>
-              <li><a href="#">Water Testing</a></li>
-              <li><a href="#">Consultation</a></li>
+              <li><a href="./">Tank Setup</a></li>
+              <li><a href="./">Maintenance</a></li>
+              <li><a href="./">Water Testing</a></li>
+              <li><a href="./">Consultation</a></li>
             </ul>
           </div>
           <div className="footer-col">
             <h5>Company</h5>
             <ul>
-              <li><a href="#">About Us</a></li>
-              <li><a href="#">Blog</a></li>
-              <li><a href="#">Careers</a></li>
-              <li><a href="#">Contact</a></li>
+              <li><a href="./">About Us</a></li>
+              <li><a href="./">Blog</a></li>
+              <li><a href="./">Careers</a></li>
+              <li><a href="./">Contact</a></li>
             </ul>
           </div>
         </div>
