@@ -272,7 +272,7 @@ export default function ReefLanding() {
         <div className="footer-grid">
           <div className="footer-brand">
             <div className="nav-logo">🪸 <span>The Reef</span> Aquarium</div>
-            <p>Indianapolis's home for reef aquarium livestock, supplies, and expertise since 2007. Passionate reefers serving passionate reefers.</p>
+            <p>Indianapolis's home for reef aquarium livestock, supplies, and expertise since 1965. Passionate reefers serving passionate reefers.</p>
           </div>
           <div className="footer-col">
             <h5>Shop</h5>
