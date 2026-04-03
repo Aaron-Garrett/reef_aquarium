@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reef_aquarium/static/css/main.445ae7b0.css",
+    "main.js": "/reef_aquarium/static/js/main.707d41db.js",
+    "static/js/453.c8c1c6af.chunk.js": "/reef_aquarium/static/js/453.c8c1c6af.chunk.js",
+    "index.html": "/reef_aquarium/index.html",
+    "main.445ae7b0.css.map": "/reef_aquarium/static/css/main.445ae7b0.css.map",
+    "main.707d41db.js.map": "/reef_aquarium/static/js/main.707d41db.js.map",
+    "453.c8c1c6af.chunk.js.map": "/reef_aquarium/static/js/453.c8c1c6af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.445ae7b0.css",
+    "static/js/main.707d41db.js"
+  ]
+}
