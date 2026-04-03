@@ -103,10 +103,10 @@ export default function ReefLanding() {
       {/* STATS */}
       <div className="stats">
         {[
-          { num: "500+", label: "Coral Species" },
-          { num: "18yrs", label: "In Business" },
+          { num: "100+", label: "Animal Species" },
+          { num: "61", label: "In Business" },
           { num: "1,200+", label: "Happy Tanks" },
-          { num: "5★", label: "Google Rating" },
+          { num: "4★", label: "Google Rating" },
         ].map(s => (
           <div className="stat-item" key={s.label}>
             <div className="stat-num">{s.num}</div>
